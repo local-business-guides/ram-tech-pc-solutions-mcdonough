@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/ram-tech-pc-solutions-mcdonough/sitemap.xml
+Sitemap: https://local-business-guides.github.io/ram-tech-pc-solutions-mcdonough/news-sitemap.xml

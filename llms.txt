@@ -27,6 +27,9 @@
 - [computer services and support McDonough](https://local-business-guides.github.io/ram-tech-pc-solutions-mcdonough/computer-services-and-support-mcdonough/): computer services and support McDonough to reduce downtime and improve IT security for local organizations.
 - [Computer consultant McDonough for Clearer IT Decisions](https://local-business-guides.github.io/ram-tech-pc-solutions-mcdonough/computer-consultant-mcdonough/): Computer consultant McDonough guidance to plan technology, reduce downtime, and support your organization in McDonough.
 
+## Newsroom
+- [RAM-Tech Shares Managed IT Services Resource for Atlanta Businesses](https://local-business-guides.github.io/ram-tech-pc-solutions-mcdonough/news/2026-10-26-ram-tech-shares-managed-it-services-resource-for-a/): RAM-Tech PC Solutions published a guide to managed IT services in Atlanta, along with a YouTube video and podcast episode, this week. (2026-10-26)
+
 ## Pages
 - [Managed It Services Atlanta in McDonough, Georgia](https://local-business-guides.github.io/ram-tech-pc-solutions-mcdonough/): Get dependable IT support and stronger security for your business in McDonough, with technology that fits the way you work. Call +1678-999-2172.
 - [About RAM-Tech PC Solutions](https://local-business-guides.github.io/ram-tech-pc-solutions-mcdonough/about/): About RAM-Tech PC Solutions, McDonough.
@@ -34,3 +37,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/ram-tech-pc-solutions-mcdonough/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/ram-tech-pc-solutions-mcdonough/news/rss.xml)
