@@ -16,16 +16,15 @@
 - Data recovery service
 
 ## Guides
-- [Computer support and services near me in McDonough](https://local-business-guides.github.io/ram-tech-pc-solutions-mcdonough/computer-support-and-services-near-me/): Find computer support and services near me for steadier business technology in McDonough.
-- [managed it services atlanta for a prepared business](https://local-business-guides.github.io/ram-tech-pc-solutions-mcdonough/managed-it-services-atlanta/): managed it services atlanta for steadier operations and stronger security in Atlanta.
+- [Computer consultant McDonough for Clearer IT Decisions](https://local-business-guides.github.io/ram-tech-pc-solutions-mcdonough/computer-consultant-mcdonough/): Computer consultant McDonough guidance to plan technology, reduce downtime, and support your organization in McDonough.
 - [computer maintenance and support services McDonough businesses can plan for](https://local-business-guides.github.io/ram-tech-pc-solutions-mcdonough/computer-maintenance-and-support-services-mcdonough/): computer maintenance and support services McDonough businesses can use to reduce disruption in McDonough.
 - [computer security service McDonough for local businesses](https://local-business-guides.github.io/ram-tech-pc-solutions-mcdonough/computer-security-service-mcdonough/): computer security service McDonough for stronger business protection and fewer security gaps.
 - [computer service McDonough businesses can plan around](https://local-business-guides.github.io/ram-tech-pc-solutions-mcdonough/computer-service-mcdonough/): computer service McDonough businesses can use to diagnose IT needs and keep work moving.
-- [computer services and support inc McDonough](https://local-business-guides.github.io/ram-tech-pc-solutions-mcdonough/computer-services-and-support-inc-mcdonough/): computer services and support inc McDonough for steadier business technology and local help in McDonough, Georgia.
 - [computer support and services companies McDonough](https://local-business-guides.github.io/ram-tech-pc-solutions-mcdonough/computer-support-and-services-companies-mcdonough/): Compare computer support and services companies McDonough businesses can call for practical IT guidance in McDonough, Georgia.
+- [Computer support and services near me in McDonough](https://local-business-guides.github.io/ram-tech-pc-solutions-mcdonough/computer-support-and-services-near-me/): Find computer support and services near me for steadier business technology in McDonough.
 - [Data recovery service McDonough customers can ask about](https://local-business-guides.github.io/ram-tech-pc-solutions-mcdonough/data-recovery-service-mcdonough/): Talk through lost or inaccessible files with a data recovery service in McDonough and learn sensible next steps.
+- [managed it services atlanta for a prepared business](https://local-business-guides.github.io/ram-tech-pc-solutions-mcdonough/managed-it-services-atlanta/): managed it services atlanta for steadier operations and stronger security in Atlanta.
 - [computer services and support McDonough](https://local-business-guides.github.io/ram-tech-pc-solutions-mcdonough/computer-services-and-support-mcdonough/): computer services and support McDonough to reduce downtime and improve IT security for local organizations.
-- [Computer consultant McDonough for Clearer IT Decisions](https://local-business-guides.github.io/ram-tech-pc-solutions-mcdonough/computer-consultant-mcdonough/): Computer consultant McDonough guidance to plan technology, reduce downtime, and support your organization in McDonough.
 
 ## Newsroom
 - [RAM-Tech PC Solutions Releases New IT Support Guide](https://local-business-guides.github.io/ram-tech-pc-solutions-mcdonough/news/2026-11-15-ram-tech-pc-solutions-releases-new-it-support/): RAM-Tech PC Solutions has released a guide, video, podcast episode and SoundCloud audio version about finding computer support and services near me. (2026-11-15)
@@ -43,4 +42,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/ram-tech-pc-solutions-mcdonough/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/ram-tech-pc-solutions-mcdonough/news/rss.xml)
-- [Main resource site](https://ramtech-mcdonough-solutions-nov2026.localbusinesses1.chatgpt.site/news/)
+- [Main resource site](https://ram-tech-mcdonough-computer-support.localbusinesses1.chatgpt.site)
